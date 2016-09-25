@@ -1,0 +1,18 @@
+{
+  "name": "manager-offers",
+  "version": "1.0.0",
+  "description": "Management of offers/recruiters",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "managementOfOffers-Recruiters"
+  },
+  "author": "Jeisse Rocha",
+  "license": "ISC",
+  "dependencies": {
+    "loadash": "0.0.1"
+  }
+}
