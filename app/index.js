@@ -1,6 +1,6 @@
-const calc = require('./calc')
+//const calc = require('./calc')
 
-const numbersToAdd = [  
+/*const numbersToAdd = [  
   3,
   4,
   10,
@@ -8,4 +8,6 @@ const numbersToAdd = [
 ]
 
 const result = calc.sum(numbersToAdd)  
-console.log(`The result is: ${result}`) 
+console.log(`The result is: ${result}`)
+*/
+alert('aquiii'); 
